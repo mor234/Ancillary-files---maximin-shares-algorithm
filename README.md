@@ -2,8 +2,11 @@
 ## Done as part of final project in CS
 
 > We implemented algorithm for fair division from the article “An Improved Approximation Algorithm for Maximin Shares” by Jugal Garg and Setareh Taki, into an open-source library in Python named Fairpy. 
+> 
  > [OUR IMLEMENTATION](https://github.com/erelsgl/fairpy/blob/master/fairpy/items/approximation_maximin_share.py)
- The files were done as part of the project.
+ > 
+ > The files were done as part of the project.
+ 
 
 ## Files
  - Summary of the algorithms in a Hebrew article and examples of how the algorithms work.
