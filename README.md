@@ -11,5 +11,6 @@
 ## Files
  - Summary of the algorithms in a Hebrew article and examples of how the algorithms work.
  - Comparison the performance of the algorithm to other algorithms for fair division in hebrew.
-- The concluding article
+ - Poster explaining the project
+ - The concluding article
 the concentrating conclusions to an article.
